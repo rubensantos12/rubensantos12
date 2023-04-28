@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, My name is Rúben Santos
+#### I am a FullStack Develepor
+Azorean boy that always had a passion for computers and a
+dream of creating his own software. Here you will find all my projects.
 
-<!--
-**rubensantos12/rubensantos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: JS | HTML | CSS | Java | Spring Boot | Maven | Postman | WSO2 | Microsoft Azure | Oracle Cloud | AWS 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning JavaScript, Angular and TypeScript 
+- 📫 How to reach me: rubensantos889@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rubensantos12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rubensantos-dev/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubensantos12)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rubensantos12)  
+
+![Profile views](https://gpvc.arturio.dev/rubensantos12)  
